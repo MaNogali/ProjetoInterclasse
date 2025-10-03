@@ -5,6 +5,7 @@ wwwroot\images\img2.1.jpg
 wwwroot\images\img2.jfif
 wwwroot\images\img3.1.jpg
 wwwroot\images\img3.jfif
+wwwroot\images\imgInterclasse.jpeg
 wwwroot\images\Thumbs.db
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css

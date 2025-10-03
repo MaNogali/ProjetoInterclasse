@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\2A-DS-PI\\RenatoRafaelpcd\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\ProjetoInterclasse\\ProjetoInterclasse.csproj",
+      "projectUniqueName": "F:\\2A-DS-PI\\PCDMarina\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\ProjetoInterclasse\\ProjetoInterclasse.csproj",
       "projectName": "ProjetoInterclasse",
-      "projectPath": "F:\\2A-DS-PI\\RenatoRafaelpcd\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\ProjetoInterclasse\\ProjetoInterclasse.csproj",
+      "projectPath": "F:\\2A-DS-PI\\PCDMarina\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\ProjetoInterclasse\\ProjetoInterclasse.csproj",
       "packagesPath": "C:\\Users\\2ds\\.nuget\\packages\\",
-      "outputPath": "F:\\2A-DS-PI\\RenatoRafaelpcd\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\ProjetoInterclasse\\obj\\",
+      "outputPath": "F:\\2A-DS-PI\\PCDMarina\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\ProjetoInterclasse\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
