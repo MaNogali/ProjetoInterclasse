@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "F:\\2A-DS-PI\\PCDMarina\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|f:\\2a-ds-pi\\pcdmarina\\ds\\projetointerclasse\\projetointerclasse\\projetointerclasse\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|solutionrelative:projetointerclasse\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|f:\\2a-ds-pi\\pcdmarina\\ds\\projetointerclasse\\projetointerclasse\\projetointerclasse\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|solutionrelative:projetointerclasse\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|f:\\2a-ds-pi\\pcdmarina\\ds\\projetointerclasse\\projetointerclasse\\projetointerclasse\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|solutionrelative:projetointerclasse\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|f:\\2a-ds-pi\\pcdmarina\\ds\\projetointerclasse\\projetointerclasse\\projetointerclasse\\views\\shared\\_carrossel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|solutionrelative:projetointerclasse\\views\\shared\\_carrossel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|f:\\2a-ds-pi\\pcdmarina\\ds\\projetointerclasse\\projetointerclasse\\projetointerclasse\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|solutionrelative:projetointerclasse\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|f:\\2a-ds-pi\\pcdmarina\\ds\\projetointerclasse\\projetointerclasse\\projetointerclasse\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|solutionrelative:projetointerclasse\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "F:\\2A-DS-PI\\PCDMarina\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\ProjetoInterclasse\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "ProjetoInterclasse\\Views\\Home\\Privacy.cshtml",
@@ -38,38 +38,37 @@
               "RelativeToolTip": "ProjetoInterclasse\\Views\\Home\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-03T12:15:53.164Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-03T12:15:53.164Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "F:\\2A-DS-PI\\PCDMarina\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\ProjetoInterclasse\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "ProjetoInterclasse\\Views\\Home\\Index.cshtml",
               "ToolTip": "F:\\2A-DS-PI\\PCDMarina\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\ProjetoInterclasse\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "ProjetoInterclasse\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEEAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-01T12:26:11.568Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "_Carrossel.cshtml",
               "DocumentMoniker": "F:\\2A-DS-PI\\PCDMarina\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\ProjetoInterclasse\\Views\\Shared\\_Carrossel.cshtml",
               "RelativeDocumentMoniker": "ProjetoInterclasse\\Views\\Shared\\_Carrossel.cshtml",
               "ToolTip": "F:\\2A-DS-PI\\PCDMarina\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\ProjetoInterclasse\\Views\\Shared\\_Carrossel.cshtml",
               "RelativeToolTip": "ProjetoInterclasse\\Views\\Shared\\_Carrossel.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-01T12:17:22.183Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "F:\\2A-DS-PI\\PCDMarina\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\ProjetoInterclasse\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ProjetoInterclasse\\Views\\Shared\\_Layout.cshtml",
