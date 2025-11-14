@@ -11,6 +11,16 @@ curso varchar(40) not null,
 periodo varchar(30) not null,
 aptoJogo varchar(3) not null);
 
+create table tbAluno_time
+(idTime smallint,
+RM smallint,
+primary key(RM,idTime),
+foreign key (idTime)
+references tbTime(idTime),
+foreign key (RM)
+references tbAluno(RM)
+);
+
 create table tbModalidade
 (idModalidade smallint primary key,
 NomeModalidade varchar(50) not null);
@@ -51,7 +61,11 @@ create table tbPartida
 placar varchar(10) not null,
 horarioDia datetime not null,
 descricao varchar(300) not null,
-aulaOcorrida varchar(80) not null);
+aulaOcorrida varchar(80) not null,
+foreign key(idPartida)
+references tbArbitro(idPartida),
+foreign key (idmodalidade)
+references tbPartia(idmodalidade));
 
 create table tbChaveamento
 (idPartida smallint not null,
@@ -61,7 +75,8 @@ time1 smallint not null,
 time2 smallint not null,
 constraint fk_Chaveamento_IdPartida
 foreign key(idPartida)
-references tbPartida(idPartida));
+references tbPartida(idPartida)
+);
 
 create table tbGrupo
 (idModalidade smallint primary key,
@@ -72,10 +87,14 @@ time4 smallint not null,
 idGrupo smallint primary key,
 constraint fk_Grupo_IdM
 foreign key(idModalidade)
-references tbModalidade(idModalidade));
+references tbModalidade(idModalidade),
+foreign key (idTime)
+references tbTime(idTime));
 
 create table tbClassificacao
-(cartaoAmarelo smallint not null,
+(
+idPartida smallint not null,
+cartaoAmarelo smallint not null,
 cartaoVermelho smallint not null,
 golsMarcados smallint not null,
 golsSofridos smallint not null,
@@ -84,4 +103,11 @@ statusTime varchar(25) not null,
 pontos smallint not null,
 grupo varchar(10) not null,
 idTime smallint not null,
-idModalidade smallint not null);
+idModalidade smallint not null,
+foreign key(idChave)
+references tbchaveamento(idchave),
+foreign key(idTime)
+references tbtime(idTime),
+foreign key (idmodalidade)
+references tbModalidade(idmodalidade)
+);
