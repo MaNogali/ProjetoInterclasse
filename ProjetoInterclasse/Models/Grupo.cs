@@ -5,16 +5,16 @@ namespace ProjetoInterclasse.Models
     public class Grupo
     {
         [Display(Name = "Código da modalidade")]
-        public int idmodalidade { get; set; }
+        public int Idmodalidade { get; set; }
         [Display(Name = "Primeiro time do grupo")]
-        public string? time1 { get; set; }
+        public string? Time1 { get; set; }
         [Display(Name = "Segundo time do grupo")]
-        public string? time2 { get; set; }
+        public string? Time2 { get; set; }
         [Display(Name = "Terceiro time do grupo")]
-        public int time3 { get; set; }
+        public int Time3 { get; set; }
         [Display(Name = "Quarto time do grupo")]
-        public int time4 { get; set; }
+        public int Time4 { get; set; }
         [Display(Name = "Código do grupo")]
-        public int idGrupo { get; set; }
+        public int IdGrupo { get; set; }
     }
 }

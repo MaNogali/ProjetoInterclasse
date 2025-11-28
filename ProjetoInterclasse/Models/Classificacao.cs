@@ -5,26 +5,26 @@ namespace ProjetoInterclasse.Models
     public class Classificacao
     {
         [Display(Name = "Código da partida")]
-        public int idPartida { get; set; }
+        public int IdPartida { get; set; }
         [Display(Name = "Cartões amarelos do jogo")]
-        public string? cartaoAmarelo { get; set; }
+        public string? CartaoAmarelo { get; set; }
         [Display(Name = "Cartões vermelhos do jogo")]
-        public string? cartaoVermelho { get; set; }
+        public string? CartaoVermelho { get; set; }
         [Display(Name = "Gols marcados")]
-        public int golsMarcados { get; set; }
+        public int GolsMarcados { get; set; }
         [Display(Name = "Gols sofridos")]
-        public int golsSofridos { get; set; }
+        public int GolsSofridos { get; set; }
         [Display(Name = "Saldo da partida")]
-        public int saldoGols { get; set; }
+        public int SaldoGols { get; set; }
         [Display(Name = "time foi classificado")]
-        public string? statusTime { get; set; }
+        public string? StatusTime { get; set; }
         [Display(Name = "Quantos pontos o time fez")]
-        public string? pontos { get; set; }
+        public string? Pontos { get; set; }
         [Display(Name = "Qual grupo")]
-        public int grupo { get; set; }
+        public int Grupo { get; set; }
         [Display(Name = "Código do time")]
-        public int idTime { get; set; }
+        public int IdTime { get; set; }
         [Display(Name = "Código da modalidade")]
-        public int idModalidade { get; set; }
+        public int IdModalidade { get; set; }
     }
 }

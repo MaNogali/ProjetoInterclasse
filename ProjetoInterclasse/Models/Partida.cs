@@ -5,14 +5,14 @@ namespace ProjetoInterclasse.Models
     public class Partida
     {
         [Display(Name = "Código da partida")]
-        public int idPartida { get; set; }
+        public int IdPartida { get; set; }
         [Display(Name = "Placar do jogo")]
-        public string? placar { get; set; }
+        public string? Placar { get; set; }
         [Display(Name = "Data e hora da partida")]
-        public string? horarioDia { get; set; }
+        public string? HorarioDia { get; set; }
         [Display(Name = "Descrição do jogo")]
-        public int descricao { get; set; }
+        public int Descricao { get; set; }
         [Display(Name = "Aula que o jogo ocorreu")]
-        public int aulaOcorrida { get; set; }
+        public int AulaOcorrida { get; set; }
     }
 }
