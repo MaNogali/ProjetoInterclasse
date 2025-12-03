@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PALLO\\OneDrive\\Área de Trabalho\\ProjetoInterclasse\\ProjetoInterclasse\\ProjetoInterclasse.csproj": {}
+    "C:\\Ademir\\Marina\\BG\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\ProjetoInterclasse.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PALLO\\OneDrive\\Área de Trabalho\\ProjetoInterclasse\\ProjetoInterclasse\\ProjetoInterclasse.csproj": {
+    "C:\\Ademir\\Marina\\BG\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\ProjetoInterclasse.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PALLO\\OneDrive\\Área de Trabalho\\ProjetoInterclasse\\ProjetoInterclasse\\ProjetoInterclasse.csproj",
+        "projectUniqueName": "C:\\Ademir\\Marina\\BG\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\ProjetoInterclasse.csproj",
         "projectName": "ProjetoInterclasse",
-        "projectPath": "C:\\Users\\PALLO\\OneDrive\\Área de Trabalho\\ProjetoInterclasse\\ProjetoInterclasse\\ProjetoInterclasse.csproj",
-        "packagesPath": "C:\\Users\\PALLO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PALLO\\OneDrive\\Área de Trabalho\\ProjetoInterclasse\\ProjetoInterclasse\\obj\\",
+        "projectPath": "C:\\Ademir\\Marina\\BG\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\ProjetoInterclasse.csproj",
+        "packagesPath": "C:\\Users\\nogalli.junior\\.nuget\\packages\\",
+        "outputPath": "C:\\Ademir\\Marina\\BG\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\PALLO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\nogalli.junior\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -45,6 +49,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[9.5.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -64,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
