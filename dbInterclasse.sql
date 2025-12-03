@@ -1,6 +1,6 @@
 create database dbInterclasse;
 use dbInterclasse;
-
+-- drop database dbInterclasse;
 create table tbTime
 (pagamento bit not null,
 ano date not null,
@@ -11,20 +11,6 @@ curso varchar(40) not null,
 periodo varchar(30) not null,
 aptoJogo varchar(3) not null);
 
-create table tbAluno_time
-(idTime smallint,
-RM smallint,
-primary key(RM,idTime),
-foreign key (idTime)
-references tbTime(idTime),
-foreign key (RM)
-references tbAluno(RM)
-);
-
-create table tbModalidade
-(idModalidade smallint primary key,
-NomeModalidade varchar(50) not null);
-
 create table tbAluno
 (RM smallint primary key,
 nome varchar(100) not null,
@@ -33,10 +19,14 @@ idade smallint not null,
 numeroCamisa smallint not null,
 curso varchar(50) not null);
 
+create table tbModalidade
+(idModalidade smallint primary key,
+NomeModalidade varchar(50) not null);
+
 create table tbArbitro
 (podeApitar varchar(3) not null,
-idArbitro smallint not null,
-RM smallint primary key,
+idArbitro smallint primary key not null,
+RM smallint not null,
 constraint fk_Arbitro_RM
 foreign key (RM)
 references tbAluno(RM));
@@ -62,14 +52,16 @@ placar varchar(10) not null,
 horarioDia datetime not null,
 descricao varchar(300) not null,
 aulaOcorrida varchar(80) not null,
-foreign key(idPartida)
-references tbArbitro(idPartida),
-foreign key (idmodalidade)
-references tbPartia(idmodalidade));
+idModalidade smallint not null,
+idArbitro smallint not null,
+foreign key(idArbitro)
+references tbArbitro(idArbitro),
+foreign key (idModalidade)
+references tbModalidade(idModalidade));
 
 create table tbChaveamento
 (idPartida smallint not null,
-idChave smallint not null,
+idChave smallint primary key not null,
 fase varchar(50) not null,
 time1 smallint not null,
 time2 smallint not null,
@@ -79,7 +71,7 @@ references tbPartida(idPartida)
 );
 
 create table tbGrupo
-(idModalidade smallint primary key,
+(idModalidade smallint not null,
 time1 smallint not null,
 time2 smallint not null,
 time3 smallint not null,
@@ -87,12 +79,10 @@ time4 smallint not null,
 idGrupo smallint primary key,
 constraint fk_Grupo_IdM
 foreign key(idModalidade)
-references tbModalidade(idModalidade),
-foreign key (idTime)
-references tbTime(idTime));
+references tbModalidade(idModalidade));
 
-create table tbClassificacao
-(
+
+create table tbClassificacao(
 idPartida smallint not null,
 cartaoAmarelo smallint not null,
 cartaoVermelho smallint not null,
@@ -104,10 +94,11 @@ pontos smallint not null,
 grupo varchar(10) not null,
 idTime smallint not null,
 idModalidade smallint not null,
+idChave smallint not null,
 foreign key(idChave)
-references tbchaveamento(idchave),
+references tbChaveamento(idChave),
 foreign key(idTime)
-references tbtime(idTime),
-foreign key (idmodalidade)
-references tbModalidade(idmodalidade)
+references tbTime(idTime),
+foreign key (idModalidade)
+references tbModalidade(idModalidade)
 );
