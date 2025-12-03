@@ -1,1 +1,33 @@
-﻿
+﻿@model ProjetoInterclasse.Models.Aluno
+
+<h2>Cadastro de Aluno</h2>
+
+@using (Html.BeginForm())
+
+{
+    <div>
+        @Html.LabelFor(m => m.RM)
+        @Html.TextBoxFor(m => m.RM)
+    </div>
+    <div>
+        @Html.LabelFor(m => m.Nome)
+        @Html.TextBoxFor(m => m.Nome)
+    </div>
+    <div>
+        @Html.LabelFor(m => m.Periodo)
+        @Html.TextBoxFor(m => m.Periodo)
+    </div>
+    <div>
+        @Html.LabelFor(m => m.Idade)
+        @Html.TextBoxFor(m => m.Idade)
+    </div>
+    <div>
+        @Html.LabelFor(m => m.NumeroCamisa)
+        @Html.TextBoxFor(m => m.NumeroCamisa)
+    </div>
+    <div>
+        @Html.LabelFor(m => m.Curso)
+        @Html.TextBoxFor(m => m.Curso)
+    </div>
+    <button type="submit">Cadastrar</button>
+}

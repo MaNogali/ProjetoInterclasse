@@ -2,6 +2,18 @@
     ViewData["Title"] = "Home Page";
 }
 
+   <div class="navbar" style="background-color:#2E8B57; overflow:hidden; padding:10px 20px;">
+    <a href="@Url.Action("Index", "Sistema")" style="float:left; color:#fff; text-decoration:none; padding:10px 15px; font-weight:bold;">Home</a>
+    <a href="@Url.Action("CadastroAluno", "Sistema")" style="float:left; color:#fff; text-decoration:none; padding:10px 15px; font-weight:bold;">Cadastrar Aluno</a>
+    <a href="@Url.Action("ListaAlunos", "Sistema")" style="float:left; color:#fff; text-decoration:none; padding:10px 15px; font-weight:bold;">Lista Alunos</a>
+    <a href="@Url.Action("CadastroTime", "Sistema")" style="float:left; color:#fff; text-decoration:none; padding:10px 15px; font-weight:bold;">Cadastrar Time</a>
+    <a href="@Url.Action("ListaTimes", "Sistema")" style="float:left; color:#fff; text-decoration:none; padding:10px 15px; font-weight:bold;">Lista Times</a>
+    <a href="@Url.Action("CadastroPartida", "Sistema")" style="float:left; color:#fff; text-decoration:none; padding:10px 15px; font-weight:bold;">Cadastrar Partida</a>
+    <a href="@Url.Action("CadastroGrupo", "Sistema")" style="float:left; color:#fff; text-decoration:none; padding:10px 15px; font-weight:bold;">Cadastrar Grupo</a>
+    <a href="@Url.Action("CadastroChaveamento", "Sistema")" style="float:left; color:#fff; text-decoration:none; padding:10px 15px; font-weight:bold;">Cadastrar Chaveamento</a>
+    <a href="@Url.Action("CadastroClassificacao", "Sistema")" style="float:left; color:#fff; text-decoration:none; padding:10px 15px; font-weight:bold;">Cadastrar Classificação</a>
+</div>
+
 <div class="text-center">
     <h1 class="display-4 fw-bold">Interclasse do Basilides de Godoy</h1>
     <partial name="_Carrossel" />

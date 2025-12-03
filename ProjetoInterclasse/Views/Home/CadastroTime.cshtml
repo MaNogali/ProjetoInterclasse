@@ -1,0 +1,40 @@
+﻿@model ProjetoInterclasse.Models.Time
+
+<h2>Cadastro de Time</h2>
+
+@using (Html.BeginForm())
+{
+    <div>
+        @Html.LabelFor(m => m.IdTime)
+        @Html.TextBoxFor(m => m.IdTime)
+    </div>
+    <div>
+        @Html.LabelFor(m => m.NomeSala)
+        @Html.TextBoxFor(m => m.NomeSala)
+    </div>
+    <div>
+        @Html.LabelFor(m => m.Camisa)
+        @Html.TextBoxFor(m => m.Camisa)
+    </div>
+    <div>
+        @Html.LabelFor(m => m.Curso)
+        @Html.TextBoxFor(m => m.Curso)
+    </div>
+    <div>
+        @Html.LabelFor(m => m.Periodo)
+        @Html.TextBoxFor(m => m.Periodo)
+    </div>
+    <div>
+        @Html.LabelFor(m => m.AptoJogo)
+        @Html.TextBoxFor(m => m.AptoJogo)
+    </div>
+    <div>
+        @Html.LabelFor(m => m.Pagamento)
+        @Html.CheckBoxFor(m => m.Pagamento)
+    </div>
+    <div>
+        @Html.LabelFor(m => m.Data)
+        @Html.TextBoxFor(m => m.Data, "{0:yyyy-MM-dd}", new { type = "date" })
+    </div>
+    <button type="submit">Cadastrar</button>
+}

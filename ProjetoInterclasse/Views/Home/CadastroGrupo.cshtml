@@ -1,0 +1,32 @@
+﻿@model ProjetoInterclasse.Models.Grupo
+
+<h2>Cadastro de Grupo</h2>
+
+@using (Html.BeginForm())
+{
+    <div>
+        @Html.LabelFor(m => m.IdGrupo)
+        @Html.TextBoxFor(m => m.IdGrupo)
+    </div>
+    <div>
+        @Html.LabelFor(m => m.IdModIAL)
+        @Html.TextBoxFor(m => m.IdModIAL)
+    </div>
+    <div>
+        @Html.LabelFor(m => m.Tempo1)
+        @Html.TextBoxFor(m => m.Tempo1)
+    </div>
+    <div>
+        @Html.LabelFor(m => m.Tempo2)
+        @Html.TextBoxFor(m => m.Tempo2)
+    </div>
+    <div>
+        @Html.LabelFor(m => m.Tempo3)
+        @Html.TextBoxFor(m => m.Tempo3)
+    </div>
+    <div>
+        @Html.LabelFor(m => m.Tempo4)
+        @Html.TextBoxFor(m => m.Tempo4)
+    </div>
+    <button type="submit">Cadastrar</button>
+}
