@@ -1,81 +1,85 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\PALLO\\OneDrive\\\u00C1rea de Trabalho\\Projeto Interclaasse\\",
+  "WorkspaceRootPath": "C:\\Users\\PALLO\\OneDrive\\\u00C1rea de Trabalho\\ProjetoInterclasse\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|c:\\users\\pallo\\onedrive\\\u00E1rea de trabalho\\projeto interclaasse\\projetointerclasse\\views\\home\\cadastroclassificacao.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|solutionrelative:projetointerclasse\\views\\home\\cadastroclassificacao.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|c:\\users\\pallo\\onedrive\\\u00E1rea de trabalho\\projeto interclaasse\\projetointerclasse\\views\\home\\cadastrochaveamento.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|solutionrelative:projetointerclasse\\views\\home\\cadastrochaveamento.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|c:\\users\\pallo\\onedrive\\\u00E1rea de trabalho\\projeto interclaasse\\projetointerclasse\\views\\home\\cadastrogrupo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|solutionrelative:projetointerclasse\\views\\home\\cadastrogrupo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|c:\\users\\pallo\\onedrive\\\u00E1rea de trabalho\\projeto interclaasse\\projetointerclasse\\views\\home\\cadastropartida.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|solutionrelative:projetointerclasse\\views\\home\\cadastropartida.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|c:\\users\\pallo\\onedrive\\\u00E1rea de trabalho\\projeto interclaasse\\projetointerclasse\\views\\home\\cadastrotime.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|solutionrelative:projetointerclasse\\views\\home\\cadastrotime.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|c:\\users\\pallo\\onedrive\\\u00E1rea de trabalho\\projeto interclaasse\\projetointerclasse\\views\\home\\cadastroaluno.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|solutionrelative:projetointerclasse\\views\\home\\cadastroaluno.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|c:\\users\\pallo\\onedrive\\\u00E1rea de trabalho\\projeto interclaasse\\projetointerclasse\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|solutionrelative:projetointerclasse\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|c:\\users\\pallo\\onedrive\\\u00E1rea de trabalho\\projeto interclaasse\\projetointerclasse\\controllers\\sistemacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|c:\\users\\pallo\\onedrive\\\u00E1rea de trabalho\\projetointerclasse\\projetointerclasse\\controllers\\sistemacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|solutionrelative:projetointerclasse\\controllers\\sistemacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|c:\\users\\pallo\\onedrive\\\u00E1rea de trabalho\\projeto interclaasse\\projetointerclasse\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|c:\\users\\pallo\\onedrive\\\u00E1rea de trabalho\\projetointerclasse\\projetointerclasse\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|solutionrelative:projetointerclasse\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|c:\\users\\pallo\\onedrive\\\u00E1rea de trabalho\\projeto interclaasse\\projetointerclasse\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|solutionrelative:projetointerclasse\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|c:\\users\\pallo\\onedrive\\\u00E1rea de trabalho\\projetointerclasse\\projetointerclasse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|solutionrelative:projetointerclasse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|c:\\users\\pallo\\onedrive\\\u00E1rea de trabalho\\projeto interclaasse\\projetointerclasse\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|solutionrelative:projetointerclasse\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|c:\\users\\pallo\\onedrive\\\u00E1rea de trabalho\\projetointerclasse\\projetointerclasse\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|solutionrelative:projetointerclasse\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|c:\\users\\pallo\\onedrive\\\u00E1rea de trabalho\\projeto interclaasse\\projetointerclasse\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|solutionrelative:projetointerclasse\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|c:\\users\\pallo\\onedrive\\\u00E1rea de trabalho\\projetointerclasse\\projetointerclasse\\views\\home\\cadastrotime.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|solutionrelative:projetointerclasse\\views\\home\\cadastrotime.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|c:\\users\\pallo\\onedrive\\\u00E1rea de trabalho\\projeto interclaasse\\projetointerclasse\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|solutionrelative:projetointerclasse\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|c:\\users\\pallo\\onedrive\\\u00E1rea de trabalho\\projetointerclasse\\projetointerclasse\\views\\home\\cadastropartida.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|solutionrelative:projetointerclasse\\views\\home\\cadastropartida.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|c:\\users\\pallo\\onedrive\\\u00E1rea de trabalho\\projeto interclaasse\\projetointerclasse\\models\\time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|c:\\users\\pallo\\onedrive\\\u00E1rea de trabalho\\projetointerclasse\\projetointerclasse\\views\\home\\cadastrogrupo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|solutionrelative:projetointerclasse\\views\\home\\cadastrogrupo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|c:\\users\\pallo\\onedrive\\\u00E1rea de trabalho\\projetointerclasse\\projetointerclasse\\views\\home\\cadastroclassificacao.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|solutionrelative:projetointerclasse\\views\\home\\cadastroclassificacao.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|c:\\users\\pallo\\onedrive\\\u00E1rea de trabalho\\projetointerclasse\\projetointerclasse\\views\\home\\cadastrochaveamento.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|solutionrelative:projetointerclasse\\views\\home\\cadastrochaveamento.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|c:\\users\\pallo\\onedrive\\\u00E1rea de trabalho\\projetointerclasse\\projetointerclasse\\views\\home\\cadastroaluno.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|solutionrelative:projetointerclasse\\views\\home\\cadastroaluno.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|c:\\users\\pallo\\onedrive\\\u00E1rea de trabalho\\projetointerclasse\\projetointerclasse\\models\\time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|solutionrelative:projetointerclasse\\models\\time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|c:\\users\\pallo\\onedrive\\\u00E1rea de trabalho\\projeto interclaasse\\projetointerclasse\\models\\partida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|c:\\users\\pallo\\onedrive\\\u00E1rea de trabalho\\projetointerclasse\\projetointerclasse\\models\\partida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|solutionrelative:projetointerclasse\\models\\partida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|c:\\users\\pallo\\onedrive\\\u00E1rea de trabalho\\projeto interclaasse\\projetointerclasse\\models\\grupo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|c:\\users\\pallo\\onedrive\\\u00E1rea de trabalho\\projetointerclasse\\projetointerclasse\\models\\grupo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|solutionrelative:projetointerclasse\\models\\grupo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|c:\\users\\pallo\\onedrive\\\u00E1rea de trabalho\\projeto interclaasse\\projetointerclasse\\models\\chaveamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|solutionrelative:projetointerclasse\\models\\chaveamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|c:\\users\\pallo\\onedrive\\\u00E1rea de trabalho\\projeto interclaasse\\projetointerclasse\\models\\classificacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|c:\\users\\pallo\\onedrive\\\u00E1rea de trabalho\\projetointerclasse\\projetointerclasse\\models\\classificacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|solutionrelative:projetointerclasse\\models\\classificacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|c:\\users\\pallo\\onedrive\\\u00E1rea de trabalho\\projeto interclaasse\\projetointerclasse\\views\\shared\\_carrossel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|c:\\users\\pallo\\onedrive\\\u00E1rea de trabalho\\projetointerclasse\\projetointerclasse\\models\\chaveamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|solutionrelative:projetointerclasse\\models\\chaveamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|c:\\users\\pallo\\onedrive\\\u00E1rea de trabalho\\projetointerclasse\\projetointerclasse\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|solutionrelative:projetointerclasse\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|c:\\users\\pallo\\onedrive\\\u00E1rea de trabalho\\projetointerclasse\\projetointerclasse\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|solutionrelative:projetointerclasse\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|c:\\users\\pallo\\onedrive\\\u00E1rea de trabalho\\projetointerclasse\\projetointerclasse\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|solutionrelative:projetointerclasse\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|c:\\users\\pallo\\onedrive\\\u00E1rea de trabalho\\projetointerclasse\\projetointerclasse\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|solutionrelative:projetointerclasse\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|c:\\users\\pallo\\onedrive\\\u00E1rea de trabalho\\projetointerclasse\\projetointerclasse\\views\\shared\\_carrossel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|solutionrelative:projetointerclasse\\views\\shared\\_carrossel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -86,125 +90,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CadastroClassificacao.cshtml",
-              "DocumentMoniker": "C:\\Users\\PALLO\\OneDrive\\\u00C1rea de Trabalho\\Projeto Interclaasse\\ProjetoInterclasse\\Views\\Home\\CadastroClassificacao.cshtml",
-              "RelativeDocumentMoniker": "ProjetoInterclasse\\Views\\Home\\CadastroClassificacao.cshtml",
-              "ToolTip": "C:\\Users\\PALLO\\OneDrive\\\u00C1rea de Trabalho\\Projeto Interclaasse\\ProjetoInterclasse\\Views\\Home\\CadastroClassificacao.cshtml",
-              "RelativeToolTip": "ProjetoInterclasse\\Views\\Home\\CadastroClassificacao.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-02T22:13:14.033Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CadastroChaveamento.cshtml",
-              "DocumentMoniker": "C:\\Users\\PALLO\\OneDrive\\\u00C1rea de Trabalho\\Projeto Interclaasse\\ProjetoInterclasse\\Views\\Home\\CadastroChaveamento.cshtml",
-              "RelativeDocumentMoniker": "ProjetoInterclasse\\Views\\Home\\CadastroChaveamento.cshtml",
-              "ToolTip": "C:\\Users\\PALLO\\OneDrive\\\u00C1rea de Trabalho\\Projeto Interclaasse\\ProjetoInterclasse\\Views\\Home\\CadastroChaveamento.cshtml",
-              "RelativeToolTip": "ProjetoInterclasse\\Views\\Home\\CadastroChaveamento.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-02T22:12:02.383Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CadastroGrupo.cshtml",
-              "DocumentMoniker": "C:\\Users\\PALLO\\OneDrive\\\u00C1rea de Trabalho\\Projeto Interclaasse\\ProjetoInterclasse\\Views\\Home\\CadastroGrupo.cshtml",
-              "RelativeDocumentMoniker": "ProjetoInterclasse\\Views\\Home\\CadastroGrupo.cshtml",
-              "ToolTip": "C:\\Users\\PALLO\\OneDrive\\\u00C1rea de Trabalho\\Projeto Interclaasse\\ProjetoInterclasse\\Views\\Home\\CadastroGrupo.cshtml",
-              "RelativeToolTip": "ProjetoInterclasse\\Views\\Home\\CadastroGrupo.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-02T22:10:20.236Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CadastroPartida.cshtml",
-              "DocumentMoniker": "C:\\Users\\PALLO\\OneDrive\\\u00C1rea de Trabalho\\Projeto Interclaasse\\ProjetoInterclasse\\Views\\Home\\CadastroPartida.cshtml",
-              "RelativeDocumentMoniker": "ProjetoInterclasse\\Views\\Home\\CadastroPartida.cshtml",
-              "ToolTip": "C:\\Users\\PALLO\\OneDrive\\\u00C1rea de Trabalho\\Projeto Interclaasse\\ProjetoInterclasse\\Views\\Home\\CadastroPartida.cshtml",
-              "RelativeToolTip": "ProjetoInterclasse\\Views\\Home\\CadastroPartida.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-02T22:08:18.917Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CadastroTime.cshtml",
-              "DocumentMoniker": "C:\\Users\\PALLO\\OneDrive\\\u00C1rea de Trabalho\\Projeto Interclaasse\\ProjetoInterclasse\\Views\\Home\\CadastroTime.cshtml",
-              "RelativeDocumentMoniker": "ProjetoInterclasse\\Views\\Home\\CadastroTime.cshtml",
-              "ToolTip": "C:\\Users\\PALLO\\OneDrive\\\u00C1rea de Trabalho\\Projeto Interclaasse\\ProjetoInterclasse\\Views\\Home\\CadastroTime.cshtml",
-              "RelativeToolTip": "ProjetoInterclasse\\Views\\Home\\CadastroTime.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-02T22:06:28.953Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "SistemaController.cs",
-              "DocumentMoniker": "C:\\Users\\PALLO\\OneDrive\\\u00C1rea de Trabalho\\Projeto Interclaasse\\ProjetoInterclasse\\Controllers\\SistemaController.cs",
-              "RelativeDocumentMoniker": "ProjetoInterclasse\\Controllers\\SistemaController.cs",
-              "ToolTip": "C:\\Users\\PALLO\\OneDrive\\\u00C1rea de Trabalho\\Projeto Interclaasse\\ProjetoInterclasse\\Controllers\\SistemaController.cs",
-              "RelativeToolTip": "ProjetoInterclasse\\Controllers\\SistemaController.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-02T21:57:41.883Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\PALLO\\OneDrive\\\u00C1rea de Trabalho\\Projeto Interclaasse\\ProjetoInterclasse\\Models\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "ProjetoInterclasse\\Models\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\PALLO\\OneDrive\\\u00C1rea de Trabalho\\Projeto Interclaasse\\ProjetoInterclasse\\Models\\ApplicationDbContext.cs",
-              "RelativeToolTip": "ProjetoInterclasse\\Models\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-02T21:21:42.904Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\PALLO\\OneDrive\\\u00C1rea de Trabalho\\Projeto Interclaasse\\ProjetoInterclasse\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "ProjetoInterclasse\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\PALLO\\OneDrive\\\u00C1rea de Trabalho\\Projeto Interclaasse\\ProjetoInterclasse\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "ProjetoInterclasse\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAEAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-02T20:55:02.939Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\PALLO\\OneDrive\\\u00C1rea de Trabalho\\Projeto Interclaasse\\ProjetoInterclasse\\appsettings.json",
-              "RelativeDocumentMoniker": "ProjetoInterclasse\\appsettings.json",
-              "ToolTip": "C:\\Users\\PALLO\\OneDrive\\\u00C1rea de Trabalho\\Projeto Interclaasse\\ProjetoInterclasse\\appsettings.json",
-              "RelativeToolTip": "ProjetoInterclasse\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-02T20:44:34.639Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -215,85 +102,230 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\PALLO\\OneDrive\\\u00C1rea de Trabalho\\Projeto Interclaasse\\ProjetoInterclasse\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "ProjetoInterclasse\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\PALLO\\OneDrive\\\u00C1rea de Trabalho\\Projeto Interclaasse\\ProjetoInterclasse\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "ProjetoInterclasse\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "CadastroTime.cshtml",
+              "DocumentMoniker": "C:\\Users\\PALLO\\OneDrive\\\u00C1rea de Trabalho\\ProjetoInterclasse\\ProjetoInterclasse\\Views\\Home\\CadastroTime.cshtml",
+              "RelativeDocumentMoniker": "ProjetoInterclasse\\Views\\Home\\CadastroTime.cshtml",
+              "ToolTip": "C:\\Users\\PALLO\\OneDrive\\\u00C1rea de Trabalho\\ProjetoInterclasse\\ProjetoInterclasse\\Views\\Home\\CadastroTime.cshtml",
+              "RelativeToolTip": "ProjetoInterclasse\\Views\\Home\\CadastroTime.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACAAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-01T12:26:11.568Z",
+              "WhenOpened": "2025-12-02T22:06:28.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PALLO\\OneDrive\\\u00C1rea de Trabalho\\ProjetoInterclasse\\ProjetoInterclasse\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProjetoInterclasse\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PALLO\\OneDrive\\\u00C1rea de Trabalho\\ProjetoInterclasse\\ProjetoInterclasse\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ProjetoInterclasse\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-01T12:26:11.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SistemaController.cs",
+              "DocumentMoniker": "C:\\Users\\PALLO\\OneDrive\\\u00C1rea de Trabalho\\ProjetoInterclasse\\ProjetoInterclasse\\Controllers\\SistemaController.cs",
+              "RelativeDocumentMoniker": "ProjetoInterclasse\\Controllers\\SistemaController.cs",
+              "ToolTip": "C:\\Users\\PALLO\\OneDrive\\\u00C1rea de Trabalho\\ProjetoInterclasse\\ProjetoInterclasse\\Controllers\\SistemaController.cs",
+              "RelativeToolTip": "ProjetoInterclasse\\Controllers\\SistemaController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T21:57:41.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\PALLO\\OneDrive\\\u00C1rea de Trabalho\\ProjetoInterclasse\\ProjetoInterclasse\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ProjetoInterclasse\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\PALLO\\OneDrive\\\u00C1rea de Trabalho\\ProjetoInterclasse\\ProjetoInterclasse\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ProjetoInterclasse\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T21:21:42.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CadastroGrupo.cshtml",
+              "DocumentMoniker": "C:\\Users\\PALLO\\OneDrive\\\u00C1rea de Trabalho\\ProjetoInterclasse\\ProjetoInterclasse\\Views\\Home\\CadastroGrupo.cshtml",
+              "RelativeDocumentMoniker": "ProjetoInterclasse\\Views\\Home\\CadastroGrupo.cshtml",
+              "ToolTip": "C:\\Users\\PALLO\\OneDrive\\\u00C1rea de Trabalho\\ProjetoInterclasse\\ProjetoInterclasse\\Views\\Home\\CadastroGrupo.cshtml",
+              "RelativeToolTip": "ProjetoInterclasse\\Views\\Home\\CadastroGrupo.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-02T22:10:20.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PALLO\\OneDrive\\\u00C1rea de Trabalho\\ProjetoInterclasse\\ProjetoInterclasse\\Program.cs",
+              "RelativeDocumentMoniker": "ProjetoInterclasse\\Program.cs",
+              "ToolTip": "C:\\Users\\PALLO\\OneDrive\\\u00C1rea de Trabalho\\ProjetoInterclasse\\ProjetoInterclasse\\Program.cs",
+              "RelativeToolTip": "ProjetoInterclasse\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T20:38:36.144Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "CadastroAluno.cshtml",
-              "DocumentMoniker": "C:\\Users\\PALLO\\OneDrive\\\u00C1rea de Trabalho\\Projeto Interclaasse\\ProjetoInterclasse\\Views\\Home\\CadastroAluno.cshtml",
-              "RelativeDocumentMoniker": "ProjetoInterclasse\\Views\\Home\\CadastroAluno.cshtml",
-              "ToolTip": "C:\\Users\\PALLO\\OneDrive\\\u00C1rea de Trabalho\\Projeto Interclaasse\\ProjetoInterclasse\\Views\\Home\\CadastroAluno.cshtml",
-              "RelativeToolTip": "ProjetoInterclasse\\Views\\Home\\CadastroAluno.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Title": "CadastroPartida.cshtml",
+              "DocumentMoniker": "C:\\Users\\PALLO\\OneDrive\\\u00C1rea de Trabalho\\ProjetoInterclasse\\ProjetoInterclasse\\Views\\Home\\CadastroPartida.cshtml",
+              "RelativeDocumentMoniker": "ProjetoInterclasse\\Views\\Home\\CadastroPartida.cshtml",
+              "ToolTip": "C:\\Users\\PALLO\\OneDrive\\\u00C1rea de Trabalho\\ProjetoInterclasse\\ProjetoInterclasse\\Views\\Home\\CadastroPartida.cshtml",
+              "RelativeToolTip": "ProjetoInterclasse\\Views\\Home\\CadastroPartida.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-03T12:15:53.164Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-02T22:08:18.917Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Aluno.cs",
-              "DocumentMoniker": "C:\\Users\\PALLO\\OneDrive\\\u00C1rea de Trabalho\\Projeto Interclaasse\\ProjetoInterclasse\\Models\\Aluno.cs",
-              "RelativeDocumentMoniker": "ProjetoInterclasse\\Models\\Aluno.cs",
-              "ToolTip": "C:\\Users\\PALLO\\OneDrive\\\u00C1rea de Trabalho\\Projeto Interclaasse\\ProjetoInterclasse\\Models\\Aluno.cs",
-              "RelativeToolTip": "ProjetoInterclasse\\Models\\Aluno.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "CadastroClassificacao.cshtml",
+              "DocumentMoniker": "C:\\Users\\PALLO\\OneDrive\\\u00C1rea de Trabalho\\ProjetoInterclasse\\ProjetoInterclasse\\Views\\Home\\CadastroClassificacao.cshtml",
+              "RelativeDocumentMoniker": "ProjetoInterclasse\\Views\\Home\\CadastroClassificacao.cshtml",
+              "ToolTip": "C:\\Users\\PALLO\\OneDrive\\\u00C1rea de Trabalho\\ProjetoInterclasse\\ProjetoInterclasse\\Views\\Home\\CadastroClassificacao.cshtml",
+              "RelativeToolTip": "ProjetoInterclasse\\Views\\Home\\CadastroClassificacao.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-02T22:13:14.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CadastroChaveamento.cshtml",
+              "DocumentMoniker": "C:\\Users\\PALLO\\OneDrive\\\u00C1rea de Trabalho\\ProjetoInterclasse\\ProjetoInterclasse\\Views\\Home\\CadastroChaveamento.cshtml",
+              "RelativeDocumentMoniker": "ProjetoInterclasse\\Views\\Home\\CadastroChaveamento.cshtml",
+              "ToolTip": "C:\\Users\\PALLO\\OneDrive\\\u00C1rea de Trabalho\\ProjetoInterclasse\\ProjetoInterclasse\\Views\\Home\\CadastroChaveamento.cshtml",
+              "RelativeToolTip": "ProjetoInterclasse\\Views\\Home\\CadastroChaveamento.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-02T22:12:02.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CadastroAluno.cshtml",
+              "DocumentMoniker": "C:\\Users\\PALLO\\OneDrive\\\u00C1rea de Trabalho\\ProjetoInterclasse\\ProjetoInterclasse\\Views\\Home\\CadastroAluno.cshtml",
+              "RelativeDocumentMoniker": "ProjetoInterclasse\\Views\\Home\\CadastroAluno.cshtml",
+              "ToolTip": "C:\\Users\\PALLO\\OneDrive\\\u00C1rea de Trabalho\\ProjetoInterclasse\\ProjetoInterclasse\\Views\\Home\\CadastroAluno.cshtml",
+              "RelativeToolTip": "ProjetoInterclasse\\Views\\Home\\CadastroAluno.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-03T12:15:53.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Time.cs",
+              "DocumentMoniker": "C:\\Users\\PALLO\\OneDrive\\\u00C1rea de Trabalho\\ProjetoInterclasse\\ProjetoInterclasse\\Models\\Time.cs",
+              "RelativeDocumentMoniker": "ProjetoInterclasse\\Models\\Time.cs",
+              "ToolTip": "C:\\Users\\PALLO\\OneDrive\\\u00C1rea de Trabalho\\ProjetoInterclasse\\ProjetoInterclasse\\Models\\Time.cs",
+              "RelativeToolTip": "ProjetoInterclasse\\Models\\Time.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T13:15:09.995Z"
+              "WhenOpened": "2025-10-22T12:15:27.401Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 11,
               "Title": "Partida.cs",
-              "DocumentMoniker": "C:\\Users\\PALLO\\OneDrive\\\u00C1rea de Trabalho\\Projeto Interclaasse\\ProjetoInterclasse\\Models\\Partida.cs",
+              "DocumentMoniker": "C:\\Users\\PALLO\\OneDrive\\\u00C1rea de Trabalho\\ProjetoInterclasse\\ProjetoInterclasse\\Models\\Partida.cs",
               "RelativeDocumentMoniker": "ProjetoInterclasse\\Models\\Partida.cs",
-              "ToolTip": "C:\\Users\\PALLO\\OneDrive\\\u00C1rea de Trabalho\\Projeto Interclaasse\\ProjetoInterclasse\\Models\\Partida.cs",
+              "ToolTip": "C:\\Users\\PALLO\\OneDrive\\\u00C1rea de Trabalho\\ProjetoInterclasse\\ProjetoInterclasse\\Models\\Partida.cs",
               "RelativeToolTip": "ProjetoInterclasse\\Models\\Partida.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAUAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-14T13:10:57.247Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 12,
               "Title": "Grupo.cs",
-              "DocumentMoniker": "C:\\Users\\PALLO\\OneDrive\\\u00C1rea de Trabalho\\Projeto Interclaasse\\ProjetoInterclasse\\Models\\Grupo.cs",
+              "DocumentMoniker": "C:\\Users\\PALLO\\OneDrive\\\u00C1rea de Trabalho\\ProjetoInterclasse\\ProjetoInterclasse\\Models\\Grupo.cs",
               "RelativeDocumentMoniker": "ProjetoInterclasse\\Models\\Grupo.cs",
-              "ToolTip": "C:\\Users\\PALLO\\OneDrive\\\u00C1rea de Trabalho\\Projeto Interclaasse\\ProjetoInterclasse\\Models\\Grupo.cs",
+              "ToolTip": "C:\\Users\\PALLO\\OneDrive\\\u00C1rea de Trabalho\\ProjetoInterclasse\\ProjetoInterclasse\\Models\\Grupo.cs",
               "RelativeToolTip": "ProjetoInterclasse\\Models\\Grupo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAUAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-14T13:22:28.64Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "Time.cs",
-              "DocumentMoniker": "C:\\Users\\PALLO\\OneDrive\\\u00C1rea de Trabalho\\Projeto Interclaasse\\ProjetoInterclasse\\Models\\Time.cs",
-              "RelativeDocumentMoniker": "ProjetoInterclasse\\Models\\Time.cs",
-              "ToolTip": "C:\\Users\\PALLO\\OneDrive\\\u00C1rea de Trabalho\\Projeto Interclaasse\\ProjetoInterclasse\\Models\\Time.cs",
-              "RelativeToolTip": "ProjetoInterclasse\\Models\\Time.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
+              "Title": "Classificacao.cs",
+              "DocumentMoniker": "C:\\Users\\PALLO\\OneDrive\\\u00C1rea de Trabalho\\ProjetoInterclasse\\ProjetoInterclasse\\Models\\Classificacao.cs",
+              "RelativeDocumentMoniker": "ProjetoInterclasse\\Models\\Classificacao.cs",
+              "ToolTip": "C:\\Users\\PALLO\\OneDrive\\\u00C1rea de Trabalho\\ProjetoInterclasse\\ProjetoInterclasse\\Models\\Classificacao.cs",
+              "RelativeToolTip": "ProjetoInterclasse\\Models\\Classificacao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T12:15:27.401Z"
+              "WhenOpened": "2025-11-14T13:31:25.446Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 14,
+              "Title": "Chaveamento.cs",
+              "DocumentMoniker": "C:\\Users\\PALLO\\OneDrive\\\u00C1rea de Trabalho\\ProjetoInterclasse\\ProjetoInterclasse\\Models\\Chaveamento.cs",
+              "RelativeDocumentMoniker": "ProjetoInterclasse\\Models\\Chaveamento.cs",
+              "ToolTip": "C:\\Users\\PALLO\\OneDrive\\\u00C1rea de Trabalho\\ProjetoInterclasse\\ProjetoInterclasse\\Models\\Chaveamento.cs",
+              "RelativeToolTip": "ProjetoInterclasse\\Models\\Chaveamento.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T13:27:26.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\PALLO\\OneDrive\\\u00C1rea de Trabalho\\ProjetoInterclasse\\ProjetoInterclasse\\Models\\Aluno.cs",
+              "RelativeDocumentMoniker": "ProjetoInterclasse\\Models\\Aluno.cs",
+              "ToolTip": "C:\\Users\\PALLO\\OneDrive\\\u00C1rea de Trabalho\\ProjetoInterclasse\\ProjetoInterclasse\\Models\\Aluno.cs",
+              "RelativeToolTip": "ProjetoInterclasse\\Models\\Aluno.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T13:15:09.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\PALLO\\OneDrive\\\u00C1rea de Trabalho\\ProjetoInterclasse\\ProjetoInterclasse\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ProjetoInterclasse\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\PALLO\\OneDrive\\\u00C1rea de Trabalho\\ProjetoInterclasse\\ProjetoInterclasse\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ProjetoInterclasse\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T20:55:02.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PALLO\\OneDrive\\\u00C1rea de Trabalho\\ProjetoInterclasse\\ProjetoInterclasse\\appsettings.json",
+              "RelativeDocumentMoniker": "ProjetoInterclasse\\appsettings.json",
+              "ToolTip": "C:\\Users\\PALLO\\OneDrive\\\u00C1rea de Trabalho\\ProjetoInterclasse\\ProjetoInterclasse\\appsettings.json",
+              "RelativeToolTip": "ProjetoInterclasse\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-02T20:44:34.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "_Carrossel.cshtml",
-              "DocumentMoniker": "C:\\Users\\PALLO\\OneDrive\\\u00C1rea de Trabalho\\Projeto Interclaasse\\ProjetoInterclasse\\Views\\Shared\\_Carrossel.cshtml",
+              "DocumentMoniker": "C:\\Users\\PALLO\\OneDrive\\\u00C1rea de Trabalho\\ProjetoInterclasse\\ProjetoInterclasse\\Views\\Shared\\_Carrossel.cshtml",
               "RelativeDocumentMoniker": "ProjetoInterclasse\\Views\\Shared\\_Carrossel.cshtml",
-              "ToolTip": "C:\\Users\\PALLO\\OneDrive\\\u00C1rea de Trabalho\\Projeto Interclaasse\\ProjetoInterclasse\\Views\\Shared\\_Carrossel.cshtml",
+              "ToolTip": "C:\\Users\\PALLO\\OneDrive\\\u00C1rea de Trabalho\\ProjetoInterclasse\\ProjetoInterclasse\\Views\\Shared\\_Carrossel.cshtml",
               "RelativeToolTip": "ProjetoInterclasse\\Views\\Shared\\_Carrossel.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAIBJwAgAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -301,40 +333,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 18,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\PALLO\\OneDrive\\\u00C1rea de Trabalho\\Projeto Interclaasse\\ProjetoInterclasse\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\PALLO\\OneDrive\\\u00C1rea de Trabalho\\ProjetoInterclasse\\ProjetoInterclasse\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ProjetoInterclasse\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\PALLO\\OneDrive\\\u00C1rea de Trabalho\\Projeto Interclaasse\\ProjetoInterclasse\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\PALLO\\OneDrive\\\u00C1rea de Trabalho\\ProjetoInterclasse\\ProjetoInterclasse\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "ProjetoInterclasse\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-01T12:14:35.405Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Chaveamento.cs",
-              "DocumentMoniker": "C:\\Users\\PALLO\\OneDrive\\\u00C1rea de Trabalho\\Projeto Interclaasse\\ProjetoInterclasse\\Models\\Chaveamento.cs",
-              "RelativeDocumentMoniker": "ProjetoInterclasse\\Models\\Chaveamento.cs",
-              "ToolTip": "C:\\Users\\PALLO\\OneDrive\\\u00C1rea de Trabalho\\Projeto Interclaasse\\ProjetoInterclasse\\Models\\Chaveamento.cs",
-              "RelativeToolTip": "ProjetoInterclasse\\Models\\Chaveamento.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T13:27:26.104Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Classificacao.cs",
-              "DocumentMoniker": "C:\\Users\\PALLO\\OneDrive\\\u00C1rea de Trabalho\\Projeto Interclaasse\\ProjetoInterclasse\\Models\\Classificacao.cs",
-              "RelativeDocumentMoniker": "ProjetoInterclasse\\Models\\Classificacao.cs",
-              "ToolTip": "C:\\Users\\PALLO\\OneDrive\\\u00C1rea de Trabalho\\Projeto Interclaasse\\ProjetoInterclasse\\Models\\Classificacao.cs",
-              "RelativeToolTip": "ProjetoInterclasse\\Models\\Classificacao.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T13:31:25.446Z"
+              "WhenOpened": "2025-10-01T12:14:35.405Z"
             }
           ]
         }

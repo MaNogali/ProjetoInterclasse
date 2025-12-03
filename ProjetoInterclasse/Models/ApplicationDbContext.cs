@@ -1,19 +1,20 @@
-﻿using System.Collections.Generic;
-using System.Data.Entity;
+﻿using Microsoft.EntityFrameworkCore;
+using System.Collections.Generic;
 
 namespace ProjetoInterclasse.Models
 {
     public class ApplicationDbContext : DbContext
     {
-        public ApplicationDbContext()
-            base ("Server=localhost;database=dbInterclasse;user=root;password=12345678")
-          {
-            }
-        public DbSet<Aluno> Aluno { get; set; }
-        public DbSet<Time> Time { get; set; }
-        public DbSet<Grupo> Grupo { get; set; }
-        public DbSet<Chaveamento> Chaveamento { get; set; }
-        public DbSet<Classificacao> Classificassao { get; set; }
-        public DbSet<Partida> Partida { get; set; }
+        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
+            : base(options)
+        {
+        }
+
+        public DbSet<Aluno> Alunos { get; set; }
+        public DbSet<Time> Times { get; set; }
+        public DbSet<Grupo> Grupos { get; set; }
+        public DbSet<Chaveamento> Chaveamentos { get; set; }
+        public DbSet<Classificacao> Classificacoes { get; set; }
+        public DbSet<Partida> Partidas { get; set; }
     }
 }

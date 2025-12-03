@@ -1,139 +1,148 @@
 ﻿
-using System.Linq;
-using System.Web.Mvc;
 using Microsoft.AspNetCore.Mvc;
 using ProjetoInterclasse.Models;
-using ProjetoInterclasse.Data;
-using ProjetoInterclasse.Models;
+using System.Threading.Tasks;
+using Microsoft.EntityFrameworkCore;
 
 namespace ProjetoInterclasse.Controllers
 {
     public class SistemaController : Controller
     {
-        private ApplicationDbContext db = new ApplicationDbContext();
+        private readonly ApplicationDbContext _context;
+
+        public SistemaController(ApplicationDbContext context)
+        {
+            _context = context;
+        }
 
         // MENU PRINCIPAL
-        public ActionResult Index()
+        public IActionResult Index()
         {
             return View();
         }
 
         // ------------------ ALUNO ------------------
-        public ActionResult CadastroAluno()
+        public IActionResult CadastroAluno()
         {
             return View();
         }
 
         [HttpPost]
-        public ActionResult CadastroAluno(Aluno aluno)
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> CadastroAluno(Aluno aluno)
         {
             if (ModelState.IsValid)
             {
-                db.Aluno.Add(aluno);
-                db.SaveChanges();
-                return RedirectToAction("Index");
+                _context.Alunos.Add(aluno);
+                await _context.SaveChangesAsync();
+                return RedirectToAction(nameof(Index));
             }
             return View(aluno);
         }
 
-        public ActionResult ListaAlunos()
+        public async Task<IActionResult> ListaAlunos()
         {
-            var alunos = db.Aluno.ToList();
+            var alunos = await _context.Alunos.ToListAsync();
             return View(alunos);
         }
 
         // ------------------ TIME ------------------
-        public ActionResult CadastroTime()
+        public IActionResult CadastroTime()
         {
             return View();
         }
 
         [HttpPost]
-        public ActionResult CadastroTime(Time time)
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> CadastroTime(Time time)
         {
             if (ModelState.IsValid)
             {
-                db.Time.Add(time);
-                db.SaveChanges();
-                return RedirectToAction("Index");
+                _context.Times.Add(time);
+                await _context.SaveChangesAsync();
+                return RedirectToAction(nameof(Index));
             }
             return View(time);
         }
 
-        public ActionResult ListaTimes()
+        public async Task<IActionResult> ListaTimes()
         {
-            var times = db.Time.ToList();
+            var times = await _context.Times.ToListAsync();
             return View(times);
         }
 
         // ------------------ PARTIDA ------------------
-        public ActionResult CadastroPartida()
+        public IActionResult CadastroPartida()
         {
             return View();
         }
 
         [HttpPost]
-        public ActionResult CadastroPartida(Partida partida)
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> CadastroPartida(Partida partida)
         {
             if (ModelState.IsValid)
             {
-                db.Partida.Add(partida);
-                db.SaveChanges();
-                return RedirectToAction("Index");
+                _context.Partidas.Add(partida);
+                await _context.SaveChangesAsync();
+                return RedirectToAction(nameof(Index));
             }
             return View(partida);
         }
 
         // ------------------ GRUPO ------------------
-        public ActionResult CadastroGrupo()
+        public IActionResult CadastroGrupo()
         {
             return View();
         }
 
         [HttpPost]
-        public ActionResult CadastroGrupo(Grupo grupo)
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> CadastroGrupo(Grupo grupo)
         {
             if (ModelState.IsValid)
             {
-                db.Grupo.Add(grupo);
-                db.SaveChanges();
-                return RedirectToAction("Index");
+                _context.Grupos.Add(grupo);
+                await _context.SaveChangesAsync();
+                return RedirectToAction(nameof(Index));
             }
             return View(grupo);
         }
 
         // ------------------ CHAVEAMENTO ------------------
-        public ActionResult CadastroChaveamento()
+        public IActionResult CadastroChaveamento()
         {
             return View();
         }
 
         [HttpPost]
-        public ActionResult CadastroChaveamento(Chaveamento chave)
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> CadastroChaveamento(Chaveamento chave)
         {
             if (ModelState.IsValid)
             {
-                db.Chaveamento.Add(chave);
-                db.SaveChanges();
-                return RedirectToAction("Index");
+                _context.Chaveamentos.Add(chave);
+                await _context.SaveChangesAsync();
+                return RedirectToAction(nameof(Index));
             }
             return View(chave);
         }
 
         // ------------------ CLASSIFICACAO ------------------
-        public ActionResult CadastroClassificacao()
+        public IActionResult CadastroClassificacao()
         {
             return View();
         }
 
         [HttpPost]
-        public ActionResult CadastroClassificacao(Classificacao classificacao)
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> CadastroClassificacao(Classificacao classificacao)
         {
             if (ModelState.IsValid)
             {
-                db.Classificacoes.Add(classificacao);
-                db.SaveChanges();
-                return RedirectToAction("Index");
+                _context.Classificacoes.Add(classificacao);
+                await _context.SaveChangesAsync();
+                return RedirectToAction(nameof(Index));
             }
             return View(classificacao);
         }
