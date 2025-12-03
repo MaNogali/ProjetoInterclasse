@@ -66,3 +66,14 @@ F:\2A-DS-PI\PCDMarina\DS\ProjetoInterclasse\ProjetoInterclasse\ProjetoInterclass
 F:\2A-DS-PI\PCDMarina\DS\ProjetoInterclasse\ProjetoInterclasse\ProjetoInterclasse\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
 F:\2A-DS-PI\PCDMarina\DS\ProjetoInterclasse\ProjetoInterclasse\ProjetoInterclasse\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
 F:\2A-DS-PI\PCDMarina\DS\ProjetoInterclasse\ProjetoInterclasse\ProjetoInterclasse\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Ademir\Marina\BG\DS\ProjetoInterclasse\ProjetoInterclasse\obj\Debug\net8.0\ProjetoInterclasse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ademir\Marina\BG\DS\ProjetoInterclasse\ProjetoInterclasse\obj\Debug\net8.0\ProjetoInterclasse.AssemblyInfoInputs.cache
+C:\Ademir\Marina\BG\DS\ProjetoInterclasse\ProjetoInterclasse\obj\Debug\net8.0\ProjetoInterclasse.AssemblyInfo.cs
+C:\Ademir\Marina\BG\DS\ProjetoInterclasse\ProjetoInterclasse\obj\Debug\net8.0\ProjetoInterclasse.csproj.CoreCompileInputs.cache
+C:\Ademir\Marina\BG\DS\ProjetoInterclasse\ProjetoInterclasse\obj\Debug\net8.0\ProjetoInterclasse.MvcApplicationPartsAssemblyInfo.cache
+C:\Ademir\Marina\BG\DS\ProjetoInterclasse\ProjetoInterclasse\obj\Debug\net8.0\ProjetoInterclasse.RazorAssemblyInfo.cache
+C:\Ademir\Marina\BG\DS\ProjetoInterclasse\ProjetoInterclasse\obj\Debug\net8.0\ProjetoInterclasse.RazorAssemblyInfo.cs
+C:\Ademir\Marina\BG\DS\ProjetoInterclasse\ProjetoInterclasse\obj\Debug\net8.0\ProjetoInterclasse.sourcelink.json
+C:\Ademir\Marina\BG\DS\ProjetoInterclasse\ProjetoInterclasse\obj\Debug\net8.0\ProjetoInterclasse.dll
+C:\Ademir\Marina\BG\DS\ProjetoInterclasse\ProjetoInterclasse\obj\Debug\net8.0\refint\ProjetoInterclasse.dll
+C:\Ademir\Marina\BG\DS\ProjetoInterclasse\ProjetoInterclasse\obj\Debug\net8.0\ProjetoInterclasse.pdb

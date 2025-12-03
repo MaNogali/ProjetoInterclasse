@@ -9,7 +9,7 @@ namespace ProjetoInterclasse.Models
         [Display(Name = "Nome da sala")]
         public string? NomeSala { get; set; }
         [Display(Name = "Pagamento")] 
-        public string? Pagamento { get; set; }
+        public bool Pagamento { get; set; }
         [Display(Name = "Camisa")]
         public string? Camisa { get; set; }
         [Display(Name = "Curso")]

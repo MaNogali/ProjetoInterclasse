@@ -30,11 +30,7 @@
     </div>
     <div>
         @Html.LabelFor(m => m.Pagamento)
-        @Html.CheckBoxFor(m => m.Pagamento)
-    </div>
-    <div>
-        @Html.LabelFor(m => m.Data)
-        @Html.TextBoxFor(m => m.Data, "{0:yyyy-MM-dd}", new { type = "date" })
+        @Html.CheckBoxFor(m => m.Pagamento) 
     </div>
     <button type="submit">Cadastrar</button>
 }

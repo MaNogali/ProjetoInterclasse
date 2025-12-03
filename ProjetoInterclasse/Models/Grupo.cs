@@ -5,7 +5,7 @@ namespace ProjetoInterclasse.Models
     public class Grupo
     {
         [Display(Name = "Código da modalidade")]
-        public int Idmodalidade { get; set; }
+        public int IdModalidade { get; set; } 
         [Display(Name = "Primeiro time do grupo")]
         public string? Time1 { get; set; }
         [Display(Name = "Segundo time do grupo")]

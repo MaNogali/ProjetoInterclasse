@@ -29,7 +29,7 @@ namespace ProjetoInterclasse.Controllers
         {
             if (ModelState.IsValid)
             {
-                db.Alunos.Add(aluno);
+                db.Aluno.Add(aluno);
                 db.SaveChanges();
                 return RedirectToAction("Index");
             }
@@ -38,7 +38,7 @@ namespace ProjetoInterclasse.Controllers
 
         public ActionResult ListaAlunos()
         {
-            var alunos = db.Alunos.ToList();
+            var alunos = db.Aluno.ToList();
             return View(alunos);
         }
 
@@ -53,7 +53,7 @@ namespace ProjetoInterclasse.Controllers
         {
             if (ModelState.IsValid)
             {
-                db.Times.Add(time);
+                db.Time.Add(time);
                 db.SaveChanges();
                 return RedirectToAction("Index");
             }
@@ -62,7 +62,7 @@ namespace ProjetoInterclasse.Controllers
 
         public ActionResult ListaTimes()
         {
-            var times = db.Times.ToList();
+            var times = db.Time.ToList();
             return View(times);
         }
 
@@ -77,7 +77,7 @@ namespace ProjetoInterclasse.Controllers
         {
             if (ModelState.IsValid)
             {
-                db.Partidas.Add(partida);
+                db.Partida.Add(partida);
                 db.SaveChanges();
                 return RedirectToAction("Index");
             }
@@ -95,7 +95,7 @@ namespace ProjetoInterclasse.Controllers
         {
             if (ModelState.IsValid)
             {
-                db.Grupos.Add(grupo);
+                db.Grupo.Add(grupo);
                 db.SaveChanges();
                 return RedirectToAction("Index");
             }
@@ -113,7 +113,7 @@ namespace ProjetoInterclasse.Controllers
         {
             if (ModelState.IsValid)
             {
-                db.Chaveamentos.Add(chave);
+                db.Chaveamento.Add(chave);
                 db.SaveChanges();
                 return RedirectToAction("Index");
             }
