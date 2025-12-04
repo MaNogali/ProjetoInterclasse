@@ -15,6 +15,6 @@ namespace ProjetoInterclasse.Models
         [Display(Name = "Numero da camiseta")]
         public int NumeroCamiseta { get; set; }
         [Display(Name = "Curso")]
-        public int Curso { get; set; } 
+        public string? Curso { get; set; } 
     }
 }

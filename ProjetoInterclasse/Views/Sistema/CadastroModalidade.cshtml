@@ -1,0 +1,17 @@
+﻿@model ProjetoInterclasse.Models.Modalidade
+
+<h2>Cadastro de Modalidade</h2>
+
+@using (Html.BeginForm())
+
+{
+    <div>
+        @Html.LabelFor(m => m.IdModalidade)
+        @Html.TextBoxFor(m => m.IdModalidade)
+    </div>
+    <div>
+        @Html.LabelFor(m => m.NomeModalidade)
+        @Html.TextBoxFor(m => m.NomeModalidade)
+    </div>
+    <button type="submit">Cadastrar</button>
+}

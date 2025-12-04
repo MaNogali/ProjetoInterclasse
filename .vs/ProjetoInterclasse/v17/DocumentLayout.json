@@ -3,84 +3,92 @@
   "WorkspaceRootPath": "C:\\Ademir\\Marina\\BG\\DS\\ProjetoInterclasse\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|c:\\ademir\\marina\\bg\\ds\\projetointerclasse\\projetointerclasse\\controllers\\sistemacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|solutionrelative:projetointerclasse\\controllers\\sistemacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|c:\\ademir\\marina\\bg\\ds\\projetointerclasse\\projetointerclasse\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|solutionrelative:projetointerclasse\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|c:\\ademir\\marina\\bg\\ds\\projetointerclasse\\projetointerclasse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|solutionrelative:projetointerclasse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|c:\\ademir\\marina\\bg\\ds\\projetointerclasse\\projetointerclasse\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|solutionrelative:projetointerclasse\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|c:\\ademir\\marina\\bg\\ds\\projetointerclasse\\projetointerclasse\\views\\home\\cadastrotime.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|solutionrelative:projetointerclasse\\views\\home\\cadastrotime.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|c:\\ademir\\marina\\bg\\ds\\projetointerclasse\\projetointerclasse\\views\\home\\cadastropartida.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|solutionrelative:projetointerclasse\\views\\home\\cadastropartida.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|c:\\ademir\\marina\\bg\\ds\\projetointerclasse\\projetointerclasse\\views\\home\\cadastrogrupo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|solutionrelative:projetointerclasse\\views\\home\\cadastrogrupo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|c:\\ademir\\marina\\bg\\ds\\projetointerclasse\\projetointerclasse\\views\\home\\cadastroclassificacao.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|solutionrelative:projetointerclasse\\views\\home\\cadastroclassificacao.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|c:\\ademir\\marina\\bg\\ds\\projetointerclasse\\projetointerclasse\\views\\home\\cadastrochaveamento.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|solutionrelative:projetointerclasse\\views\\home\\cadastrochaveamento.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|c:\\ademir\\marina\\bg\\ds\\projetointerclasse\\projetointerclasse\\views\\home\\cadastroaluno.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|solutionrelative:projetointerclasse\\views\\home\\cadastroaluno.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|c:\\ademir\\marina\\bg\\ds\\projetointerclasse\\projetointerclasse\\models\\time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|solutionrelative:projetointerclasse\\models\\time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|c:\\ademir\\marina\\bg\\ds\\projetointerclasse\\projetointerclasse\\models\\partida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|solutionrelative:projetointerclasse\\models\\partida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|c:\\ademir\\marina\\bg\\ds\\projetointerclasse\\projetointerclasse\\models\\grupo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|solutionrelative:projetointerclasse\\models\\grupo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|c:\\ademir\\marina\\bg\\ds\\projetointerclasse\\projetointerclasse\\models\\classificacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|solutionrelative:projetointerclasse\\models\\classificacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|c:\\ademir\\marina\\bg\\ds\\projetointerclasse\\projetointerclasse\\models\\chaveamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|solutionrelative:projetointerclasse\\models\\chaveamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|c:\\ademir\\marina\\bg\\ds\\projetointerclasse\\projetointerclasse\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|solutionrelative:projetointerclasse\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|c:\\ademir\\marina\\bg\\ds\\projetointerclasse\\projetointerclasse\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|solutionrelative:projetointerclasse\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|c:\\ademir\\marina\\bg\\ds\\projetointerclasse\\projetointerclasse\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|solutionrelative:projetointerclasse\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|c:\\ademir\\marina\\bg\\ds\\projetointerclasse\\projetointerclasse\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|solutionrelative:projetointerclasse\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|c:\\ademir\\marina\\bg\\ds\\projetointerclasse\\projetointerclasse\\views\\sistema\\cadastroaluno.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|solutionrelative:projetointerclasse\\views\\sistema\\cadastroaluno.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|c:\\ademir\\marina\\bg\\ds\\projetointerclasse\\projetointerclasse\\views\\sistema\\cadastroclassificacao.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|solutionrelative:projetointerclasse\\views\\sistema\\cadastroclassificacao.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|c:\\ademir\\marina\\bg\\ds\\projetointerclasse\\projetointerclasse\\models\\classificacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|solutionrelative:projetointerclasse\\models\\classificacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|c:\\ademir\\marina\\bg\\ds\\projetointerclasse\\projetointerclasse\\controllers\\sistemacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|solutionrelative:projetointerclasse\\controllers\\sistemacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|c:\\ademir\\marina\\bg\\ds\\projetointerclasse\\projetointerclasse\\models\\chaveamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|solutionrelative:projetointerclasse\\models\\chaveamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|c:\\ademir\\marina\\bg\\ds\\projetointerclasse\\projetointerclasse\\models\\modalidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|solutionrelative:projetointerclasse\\models\\modalidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|c:\\ademir\\marina\\bg\\ds\\projetointerclasse\\projetointerclasse\\views\\sistema\\cadastropartida.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|solutionrelative:projetointerclasse\\views\\sistema\\cadastropartida.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|c:\\ademir\\marina\\bg\\ds\\projetointerclasse\\projetointerclasse\\models\\time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|solutionrelative:projetointerclasse\\models\\time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|c:\\ademir\\marina\\bg\\ds\\projetointerclasse\\projetointerclasse\\views\\sistema\\cadastromodalidade.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|solutionrelative:projetointerclasse\\views\\sistema\\cadastromodalidade.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|c:\\ademir\\marina\\bg\\ds\\projetointerclasse\\projetointerclasse\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|solutionrelative:projetointerclasse\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|c:\\ademir\\marina\\bg\\ds\\projetointerclasse\\projetointerclasse\\models\\grupo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|solutionrelative:projetointerclasse\\models\\grupo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|c:\\ademir\\marina\\bg\\ds\\projetointerclasse\\projetointerclasse\\models\\partida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|solutionrelative:projetointerclasse\\models\\partida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|c:\\ademir\\marina\\bg\\ds\\projetointerclasse\\projetointerclasse\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|solutionrelative:projetointerclasse\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|c:\\ademir\\marina\\bg\\ds\\projetointerclasse\\projetointerclasse\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|solutionrelative:projetointerclasse\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|c:\\ademir\\marina\\bg\\ds\\projetointerclasse\\projetointerclasse\\views\\sistema\\cadastrotime.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|solutionrelative:projetointerclasse\\views\\sistema\\cadastrotime.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|c:\\ademir\\marina\\bg\\ds\\projetointerclasse\\projetointerclasse\\views\\sistema\\cadastrogrupo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|solutionrelative:projetointerclasse\\views\\sistema\\cadastrogrupo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|c:\\ademir\\marina\\bg\\ds\\projetointerclasse\\projetointerclasse\\views\\sistema\\cadastrochaveamento.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|solutionrelative:projetointerclasse\\views\\sistema\\cadastrochaveamento.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|c:\\ademir\\marina\\bg\\ds\\projetointerclasse\\projetointerclasse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|solutionrelative:projetointerclasse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|c:\\ademir\\marina\\bg\\ds\\projetointerclasse\\projetointerclasse\\views\\shared\\_carrossel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|solutionrelative:projetointerclasse\\views\\shared\\_carrossel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|c:\\ademir\\marina\\bg\\ds\\projetointerclasse\\projetointerclasse\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{964BC791-F9A0-4CC6-BDF3-CF216D2B98DD}|ProjetoInterclasse\\ProjetoInterclasse.csproj|solutionrelative:projetointerclasse\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -90,162 +98,162 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CadastroTime.cshtml",
-              "DocumentMoniker": "C:\\Ademir\\Marina\\BG\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\Views\\Home\\CadastroTime.cshtml",
-              "RelativeDocumentMoniker": "ProjetoInterclasse\\Views\\Home\\CadastroTime.cshtml",
-              "ToolTip": "C:\\Ademir\\Marina\\BG\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\Views\\Home\\CadastroTime.cshtml",
-              "RelativeToolTip": "ProjetoInterclasse\\Views\\Home\\CadastroTime.cshtml",
-              "ViewState": "AQIAABIAAAAAAAAAAIBJwCAAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-02T22:06:28.953Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Ademir\\Marina\\BG\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "ProjetoInterclasse\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Ademir\\Marina\\BG\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "ProjetoInterclasse\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-01T12:26:11.568Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SistemaController.cs",
-              "DocumentMoniker": "C:\\Ademir\\Marina\\BG\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\Controllers\\SistemaController.cs",
-              "RelativeDocumentMoniker": "ProjetoInterclasse\\Controllers\\SistemaController.cs",
-              "ToolTip": "C:\\Ademir\\Marina\\BG\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\Controllers\\SistemaController.cs",
-              "RelativeToolTip": "ProjetoInterclasse\\Controllers\\SistemaController.cs",
-              "ViewState": "AQIAAHMAAAAAAAAAAAAUwHwAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-02T21:57:41.883Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Ademir\\Marina\\BG\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\Models\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "ProjetoInterclasse\\Models\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Ademir\\Marina\\BG\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\Models\\ApplicationDbContext.cs",
-              "RelativeToolTip": "ProjetoInterclasse\\Models\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-02T21:21:42.904Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CadastroGrupo.cshtml",
-              "DocumentMoniker": "C:\\Ademir\\Marina\\BG\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\Views\\Home\\CadastroGrupo.cshtml",
-              "RelativeDocumentMoniker": "ProjetoInterclasse\\Views\\Home\\CadastroGrupo.cshtml",
-              "ToolTip": "C:\\Ademir\\Marina\\BG\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\Views\\Home\\CadastroGrupo.cshtml",
-              "RelativeToolTip": "ProjetoInterclasse\\Views\\Home\\CadastroGrupo.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAIBJwBwAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-02T22:10:20.236Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Ademir\\Marina\\BG\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\Program.cs",
-              "RelativeDocumentMoniker": "ProjetoInterclasse\\Program.cs",
-              "ToolTip": "C:\\Ademir\\Marina\\BG\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\Program.cs",
-              "RelativeToolTip": "ProjetoInterclasse\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T20:38:36.144Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CadastroPartida.cshtml",
-              "DocumentMoniker": "C:\\Ademir\\Marina\\BG\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\Views\\Home\\CadastroPartida.cshtml",
-              "RelativeDocumentMoniker": "ProjetoInterclasse\\Views\\Home\\CadastroPartida.cshtml",
-              "ToolTip": "C:\\Ademir\\Marina\\BG\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\Views\\Home\\CadastroPartida.cshtml",
-              "RelativeToolTip": "ProjetoInterclasse\\Views\\Home\\CadastroPartida.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAIBJwBgAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-02T22:08:18.917Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "CadastroClassificacao.cshtml",
-              "DocumentMoniker": "C:\\Ademir\\Marina\\BG\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\Views\\Home\\CadastroClassificacao.cshtml",
-              "RelativeDocumentMoniker": "ProjetoInterclasse\\Views\\Home\\CadastroClassificacao.cshtml",
-              "ToolTip": "C:\\Ademir\\Marina\\BG\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\Views\\Home\\CadastroClassificacao.cshtml",
-              "RelativeToolTip": "ProjetoInterclasse\\Views\\Home\\CadastroClassificacao.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "DocumentMoniker": "C:\\Ademir\\Marina\\BG\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\Views\\Sistema\\CadastroClassificacao.cshtml",
+              "RelativeDocumentMoniker": "ProjetoInterclasse\\Views\\Sistema\\CadastroClassificacao.cshtml",
+              "ToolTip": "C:\\Ademir\\Marina\\BG\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\Views\\Sistema\\CadastroClassificacao.cshtml",
+              "RelativeToolTip": "ProjetoInterclasse\\Views\\Sistema\\CadastroClassificacao.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-12-02T22:13:14.033Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CadastroChaveamento.cshtml",
-              "DocumentMoniker": "C:\\Ademir\\Marina\\BG\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\Views\\Home\\CadastroChaveamento.cshtml",
-              "RelativeDocumentMoniker": "ProjetoInterclasse\\Views\\Home\\CadastroChaveamento.cshtml",
-              "ToolTip": "C:\\Ademir\\Marina\\BG\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\Views\\Home\\CadastroChaveamento.cshtml",
-              "RelativeToolTip": "ProjetoInterclasse\\Views\\Home\\CadastroChaveamento.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-02T22:12:02.383Z",
+              "DocumentIndex": 7,
+              "Title": "Modalidade.cs",
+              "DocumentMoniker": "C:\\Ademir\\Marina\\BG\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\Models\\Modalidade.cs",
+              "RelativeDocumentMoniker": "ProjetoInterclasse\\Models\\Modalidade.cs",
+              "ToolTip": "C:\\Ademir\\Marina\\BG\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\Models\\Modalidade.cs",
+              "RelativeToolTip": "ProjetoInterclasse\\Models\\Modalidade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T22:22:04.225Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
+              "Title": "Chaveamento.cs",
+              "DocumentMoniker": "C:\\Ademir\\Marina\\BG\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\Models\\Chaveamento.cs",
+              "RelativeDocumentMoniker": "ProjetoInterclasse\\Models\\Chaveamento.cs",
+              "ToolTip": "C:\\Ademir\\Marina\\BG\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\Models\\Chaveamento.cs",
+              "RelativeToolTip": "ProjetoInterclasse\\Models\\Chaveamento.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T13:27:26.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "CadastroAluno.cshtml",
-              "DocumentMoniker": "C:\\Ademir\\Marina\\BG\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\Views\\Home\\CadastroAluno.cshtml",
-              "RelativeDocumentMoniker": "ProjetoInterclasse\\Views\\Home\\CadastroAluno.cshtml",
-              "ToolTip": "C:\\Ademir\\Marina\\BG\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\Views\\Home\\CadastroAluno.cshtml",
-              "RelativeToolTip": "ProjetoInterclasse\\Views\\Home\\CadastroAluno.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAIBJwB0AAAAnAAAA",
+              "DocumentMoniker": "C:\\Ademir\\Marina\\BG\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\Views\\Sistema\\CadastroAluno.cshtml",
+              "RelativeDocumentMoniker": "ProjetoInterclasse\\Views\\Sistema\\CadastroAluno.cshtml",
+              "ToolTip": "C:\\Ademir\\Marina\\BG\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\Views\\Sistema\\CadastroAluno.cshtml",
+              "RelativeToolTip": "ProjetoInterclasse\\Views\\Sistema\\CadastroAluno.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-03T12:15:53.164Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Ademir\\Marina\\BG\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ProjetoInterclasse\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Ademir\\Marina\\BG\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ProjetoInterclasse\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAswDwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-01T12:14:35.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Ademir\\Marina\\BG\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProjetoInterclasse\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Ademir\\Marina\\BG\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ProjetoInterclasse\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-01T12:26:11.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Classificacao.cs",
+              "DocumentMoniker": "C:\\Ademir\\Marina\\BG\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\Models\\Classificacao.cs",
+              "RelativeDocumentMoniker": "ProjetoInterclasse\\Models\\Classificacao.cs",
+              "ToolTip": "C:\\Ademir\\Marina\\BG\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\Models\\Classificacao.cs",
+              "RelativeToolTip": "ProjetoInterclasse\\Models\\Classificacao.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwBcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T13:31:25.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CadastroPartida.cshtml",
+              "DocumentMoniker": "C:\\Ademir\\Marina\\BG\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\Views\\Sistema\\CadastroPartida.cshtml",
+              "RelativeDocumentMoniker": "ProjetoInterclasse\\Views\\Sistema\\CadastroPartida.cshtml",
+              "ToolTip": "C:\\Ademir\\Marina\\BG\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\Views\\Sistema\\CadastroPartida.cshtml",
+              "RelativeToolTip": "ProjetoInterclasse\\Views\\Sistema\\CadastroPartida.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAswBwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-02T22:08:18.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Time.cs",
               "DocumentMoniker": "C:\\Ademir\\Marina\\BG\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\Models\\Time.cs",
               "RelativeDocumentMoniker": "ProjetoInterclasse\\Models\\Time.cs",
               "ToolTip": "C:\\Ademir\\Marina\\BG\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\Models\\Time.cs",
               "RelativeToolTip": "ProjetoInterclasse\\Models\\Time.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAsAAAATAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-22T12:15:27.401Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Partida.cs",
-              "DocumentMoniker": "C:\\Ademir\\Marina\\BG\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\Models\\Partida.cs",
-              "RelativeDocumentMoniker": "ProjetoInterclasse\\Models\\Partida.cs",
-              "ToolTip": "C:\\Ademir\\Marina\\BG\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\Models\\Partida.cs",
-              "RelativeToolTip": "ProjetoInterclasse\\Models\\Partida.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 5,
+              "Title": "SistemaController.cs",
+              "DocumentMoniker": "C:\\Ademir\\Marina\\BG\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\Controllers\\SistemaController.cs",
+              "RelativeDocumentMoniker": "ProjetoInterclasse\\Controllers\\SistemaController.cs",
+              "ToolTip": "C:\\Ademir\\Marina\\BG\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\Controllers\\SistemaController.cs",
+              "RelativeToolTip": "ProjetoInterclasse\\Controllers\\SistemaController.cs",
+              "ViewState": "AgIAAI0BAAAAAAAAAAAuwJwBAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T13:10:57.247Z",
+              "WhenOpened": "2025-12-02T21:57:41.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CadastroModalidade.cshtml",
+              "DocumentMoniker": "C:\\Ademir\\Marina\\BG\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\Views\\Sistema\\CadastroModalidade.cshtml",
+              "RelativeDocumentMoniker": "ProjetoInterclasse\\Views\\Sistema\\CadastroModalidade.cshtml",
+              "ToolTip": "C:\\Ademir\\Marina\\BG\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\Views\\Sistema\\CadastroModalidade.cshtml",
+              "RelativeToolTip": "ProjetoInterclasse\\Views\\Sistema\\CadastroModalidade.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-04T22:25:19.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Ademir\\Marina\\BG\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\Models\\Aluno.cs",
+              "RelativeDocumentMoniker": "ProjetoInterclasse\\Models\\Aluno.cs",
+              "ToolTip": "C:\\Ademir\\Marina\\BG\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\Models\\Aluno.cs",
+              "RelativeToolTip": "ProjetoInterclasse\\Models\\Aluno.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T13:15:09.995Z",
               "EditorCaption": ""
             },
             {
@@ -256,7 +264,7 @@
               "RelativeDocumentMoniker": "ProjetoInterclasse\\Models\\Grupo.cs",
               "ToolTip": "C:\\Ademir\\Marina\\BG\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\Models\\Grupo.cs",
               "RelativeToolTip": "ProjetoInterclasse\\Models\\Grupo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAuAAAA",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-14T13:22:28.64Z",
               "EditorCaption": ""
@@ -264,92 +272,118 @@
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "Classificacao.cs",
-              "DocumentMoniker": "C:\\Ademir\\Marina\\BG\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\Models\\Classificacao.cs",
-              "RelativeDocumentMoniker": "ProjetoInterclasse\\Models\\Classificacao.cs",
-              "ToolTip": "C:\\Ademir\\Marina\\BG\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\Models\\Classificacao.cs",
-              "RelativeToolTip": "ProjetoInterclasse\\Models\\Classificacao.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "Partida.cs",
+              "DocumentMoniker": "C:\\Ademir\\Marina\\BG\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\Models\\Partida.cs",
+              "RelativeDocumentMoniker": "ProjetoInterclasse\\Models\\Partida.cs",
+              "ToolTip": "C:\\Ademir\\Marina\\BG\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\Models\\Partida.cs",
+              "RelativeToolTip": "ProjetoInterclasse\\Models\\Partida.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwBAAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T13:31:25.446Z",
+              "WhenOpened": "2025-11-14T13:10:57.247Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "Chaveamento.cs",
-              "DocumentMoniker": "C:\\Ademir\\Marina\\BG\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\Models\\Chaveamento.cs",
-              "RelativeDocumentMoniker": "ProjetoInterclasse\\Models\\Chaveamento.cs",
-              "ToolTip": "C:\\Ademir\\Marina\\BG\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\Models\\Chaveamento.cs",
-              "RelativeToolTip": "ProjetoInterclasse\\Models\\Chaveamento.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Ademir\\Marina\\BG\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ProjetoInterclasse\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Ademir\\Marina\\BG\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ProjetoInterclasse\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T13:27:26.104Z",
+              "WhenOpened": "2025-12-02T21:21:42.904Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "Aluno.cs",
-              "DocumentMoniker": "C:\\Ademir\\Marina\\BG\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\Models\\Aluno.cs",
-              "RelativeDocumentMoniker": "ProjetoInterclasse\\Models\\Aluno.cs",
-              "ToolTip": "C:\\Ademir\\Marina\\BG\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\Models\\Aluno.cs",
-              "RelativeToolTip": "ProjetoInterclasse\\Models\\Aluno.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBEAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T13:15:09.995Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Ademir\\Marina\\BG\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "ProjetoInterclasse\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Ademir\\Marina\\BG\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "ProjetoInterclasse\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-02T20:55:02.939Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Ademir\\Marina\\BG\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\appsettings.json",
               "RelativeDocumentMoniker": "ProjetoInterclasse\\appsettings.json",
               "ToolTip": "C:\\Ademir\\Marina\\BG\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\appsettings.json",
               "RelativeToolTip": "ProjetoInterclasse\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-12-02T20:44:34.639Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CadastroTime.cshtml",
+              "DocumentMoniker": "C:\\Ademir\\Marina\\BG\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\Views\\Sistema\\CadastroTime.cshtml",
+              "RelativeDocumentMoniker": "ProjetoInterclasse\\Views\\Sistema\\CadastroTime.cshtml",
+              "ToolTip": "C:\\Ademir\\Marina\\BG\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\Views\\Sistema\\CadastroTime.cshtml",
+              "RelativeToolTip": "ProjetoInterclasse\\Views\\Sistema\\CadastroTime.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-02T22:06:28.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CadastroGrupo.cshtml",
+              "DocumentMoniker": "C:\\Ademir\\Marina\\BG\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\Views\\Sistema\\CadastroGrupo.cshtml",
+              "RelativeDocumentMoniker": "ProjetoInterclasse\\Views\\Sistema\\CadastroGrupo.cshtml",
+              "ToolTip": "C:\\Ademir\\Marina\\BG\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\Views\\Sistema\\CadastroGrupo.cshtml",
+              "RelativeToolTip": "ProjetoInterclasse\\Views\\Sistema\\CadastroGrupo.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-02T22:10:20.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CadastroChaveamento.cshtml",
+              "DocumentMoniker": "C:\\Ademir\\Marina\\BG\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\Views\\Sistema\\CadastroChaveamento.cshtml",
+              "RelativeDocumentMoniker": "ProjetoInterclasse\\Views\\Sistema\\CadastroChaveamento.cshtml",
+              "ToolTip": "C:\\Ademir\\Marina\\BG\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\Views\\Sistema\\CadastroChaveamento.cshtml",
+              "RelativeToolTip": "ProjetoInterclasse\\Views\\Sistema\\CadastroChaveamento.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-02T22:12:02.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Ademir\\Marina\\BG\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\Program.cs",
+              "RelativeDocumentMoniker": "ProjetoInterclasse\\Program.cs",
+              "ToolTip": "C:\\Ademir\\Marina\\BG\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\Program.cs",
+              "RelativeToolTip": "ProjetoInterclasse\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T20:38:36.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "_Carrossel.cshtml",
               "DocumentMoniker": "C:\\Ademir\\Marina\\BG\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\Views\\Shared\\_Carrossel.cshtml",
               "RelativeDocumentMoniker": "ProjetoInterclasse\\Views\\Shared\\_Carrossel.cshtml",
               "ToolTip": "C:\\Ademir\\Marina\\BG\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\Views\\Shared\\_Carrossel.cshtml",
               "RelativeToolTip": "ProjetoInterclasse\\Views\\Shared\\_Carrossel.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-01T12:17:22.183Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Ademir\\Marina\\BG\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "ProjetoInterclasse\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Ademir\\Marina\\BG\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "ProjetoInterclasse\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-01T12:14:35.405Z",
+              "DocumentIndex": 21,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Ademir\\Marina\\BG\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ProjetoInterclasse\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Ademir\\Marina\\BG\\DS\\ProjetoInterclasse\\ProjetoInterclasse\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ProjetoInterclasse\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T20:55:02.939Z",
               "EditorCaption": ""
             }
           ]

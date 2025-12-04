@@ -7,7 +7,7 @@ namespace ProjetoInterclasse.Models
         [Display(Name = "Código da partida")]
         public int IdPartida { get; set; }
         [Display(Name = "Código da fase que estamos")]
-        public string? IdChave { get; set; }
+        public int IdChave { get; set; }
         [Display(Name = "Fase que será jogada")]
         public string? Fase { get; set; }
         [Display(Name = "Segundo time do chavemento")]

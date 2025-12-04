@@ -2,11 +2,10 @@ create database dbInterclasse;
 use dbInterclasse;
 -- drop database dbInterclasse;
 create table tbTime
-(pagamento bit not null,
-ano date not null,
+(pagamento bool not null,
 idTime smallint  primary key,
 nomeSala varchar(40) not null,
-camisa varchar(3) not null,
+camisa int not null,
 curso varchar(40) not null,
 periodo varchar(30) not null,
 aptoJogo varchar(3) not null);
@@ -102,3 +101,9 @@ references tbTime(idTime),
 foreign key (idModalidade)
 references tbModalidade(idModalidade)
 );
+
+select * from tbAluno;
+select * from tbTime;
+select * from tbModalidade;
+select * from tbPartida;
+select * from tbAGrupo;

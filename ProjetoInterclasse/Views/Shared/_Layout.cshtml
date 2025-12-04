@@ -22,14 +22,106 @@
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Página Inicial</a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
-                        </li>
+                        
                     </ul>
                 </div>
             </div>
         </nav>
     </header>
+
+    <style>
+        body {
+            background-color: #b7cdd8; 
+            font-family: 'Segoe UI', Arial, sans-serif;
+        }
+
+        .card {
+            border-radius: 12px; 
+            margin: 20px; 
+            box-shadow: 0 2px 6px rgba(0,0,0,0.1); 
+        }
+
+           .card img {
+                border-top-left-radius: 12px;
+                border-top-right-radius: 12px;
+            }
+
+        .card-body {
+            padding: 20px;
+        }
+
+        .d-flex {
+            gap: 20px; 
+        }
+        
+        form {
+            max-width: 500px;
+            margin: 30px auto;
+            padding: 20px;
+            background-color: #fdf0d5;
+            border: 1px solid #b7cdd8;
+            border-radius: 8px;
+            font-family: Arial, sans-serif;
+        }
+
+       
+        h2 {
+            text-align: center;
+            color: #333;
+            margin-bottom: 20px;
+        }
+
+        
+        form div {
+            margin-bottom: 15px;
+        }
+
+        
+        form label {
+            display: block;
+            font-weight: bold;
+            margin-bottom: 5px;
+            color: #555;
+        }
+
+        
+        form input[type="text"],
+        form input[type="number"],
+        form input[type="date"] {
+            width: 100%;
+            padding: 8px 10px;
+            border: 1px solid #b7cdd8;
+            border-radius: 5px;
+            transition: border-color 0.3s;
+        }
+
+        
+        form input:focus {
+            border-color: #063467;
+            outline: none;
+        }
+
+        
+        form button {
+            width: 100%;
+            padding: 10px;
+            background-color: #063467;
+            border: none;
+            border-radius: 5px;
+            color: white;
+            font-weight: bold;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+
+            
+            form button:hover {
+                background-color: #5e657b;
+            }
+
+    </style>
+
+
     <div class="container">
         <main role="main" class="pb-3">
             @RenderBody()

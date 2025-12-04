@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProjetoInterclasse")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+12c819f09f074ed5b5fb6f3140a9cc680bdf3d49")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f4b6d585c2a0b25efc839212c3ce810afaa8f95")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProjetoInterclasse")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProjetoInterclasse")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
