@@ -52,9 +52,6 @@ horarioDia datetime not null,
 descricao varchar(300) not null,
 aulaOcorrida varchar(80) not null,
 idModalidade smallint not null,
-idArbitro smallint not null,
-foreign key(idArbitro)
-references tbArbitro(idArbitro),
 foreign key (idModalidade)
 references tbModalidade(idModalidade));
 
@@ -106,4 +103,6 @@ select * from tbAluno;
 select * from tbTime;
 select * from tbModalidade;
 select * from tbPartida;
-select * from tbAGrupo;
+select * from tbGrupo;
+select * from tbClassificacao;
+select * from tbChaveamento;
